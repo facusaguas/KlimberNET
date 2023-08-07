@@ -106,7 +106,7 @@ namespace KlimberNET.Recursos {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Formas.
+        ///   Looks up a localized string similar to formas.
         /// </summary>
         internal static string Formas {
             get {
