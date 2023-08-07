@@ -22,7 +22,7 @@ namespace KlimberSoft
                 new FormaGeometrica(new TraprecioRectangulo(4,3,3,4))
             };
 
-            var resumen = FormaGeometrica.Imprimir(formas, (int)IdiomasEnum.Italiano);
+            var resumen = FormaGeometrica.Imprimir(formas, (int)IdiomasEnum.Espanol);
 
             Console.WriteLine(resumen);
 
