@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlimberNET", "KlimberNET\KlimberNET.csproj", "{28717D03-E503-414D-9825-84B02D4BBDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlimberNET.Data.Test", "KlimberNET.Data.Test\KlimberNET.Data.Test.csproj", "{503CC4CE-47BC-482E-AEE7-4A421A9B42DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28717D03-E503-414D-9825-84B02D4BBDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28717D03-E503-414D-9825-84B02D4BBDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28717D03-E503-414D-9825-84B02D4BBDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28717D03-E503-414D-9825-84B02D4BBDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503CC4CE-47BC-482E-AEE7-4A421A9B42DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503CC4CE-47BC-482E-AEE7-4A421A9B42DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503CC4CE-47BC-482E-AEE7-4A421A9B42DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503CC4CE-47BC-482E-AEE7-4A421A9B42DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A162BCC3-E031-4B67-8766-36E5F1B23B4D}
+	EndGlobalSection
+EndGlobal
