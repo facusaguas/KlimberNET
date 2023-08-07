@@ -25,9 +25,6 @@ namespace KlimberNet.Clases
     public class FormaGeometrica
     {
         public IForma _forma;
-        private int _tipoForma;
-        private decimal _perimetro;
-        private decimal _area;
         private static CultureInfo _ci;
 
         public FormaGeometrica(IForma forma)
