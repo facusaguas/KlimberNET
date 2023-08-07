@@ -79,7 +79,7 @@ namespace KlimberNET.Recursos {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Circulos.
+        ///   Looks up a localized string similar to Círculos.
         /// </summary>
         internal static string Circulos {
             get {
